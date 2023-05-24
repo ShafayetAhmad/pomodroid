@@ -1,16 +1,48 @@
-# pomodroid
+# Pomodroid
 
-A new Flutter project.
+Pomodroid is a simple Pomodoro timer app built using Flutter. It helps you manage your time effectively by dividing your work into focused intervals called "Pomodoros" followed by short breaks.
+
+## Features
+
+- Work time: 25 minutes (1500 seconds)
+- Break time: 5 minutes (300 seconds)
+- Automatic switching between work time and break time
+- Start and stop buttons to control the timer
+
+## Screenshots
+
+Include screenshots of your app here (optional).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the Pomodroid app on your device or simulator, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Make sure you have Flutter installed. If not, refer to the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Clone this repository to your local machine using the following command:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/ShafayetAhmad/pomodroid.git
+   ```
+
+3. Navigate to the project directory:
+
+   ```bash
+   cd pomodroid
+   ```
+
+4. Run the app:
+
+   ```bash
+   flutter run
+   ```
+
+5. The app should now be running on your device or simulator.
+
+## Contributions
+
+Contributions to Pomodroid are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
